@@ -1,28 +1,28 @@
 export const catData = [
     {
         title: "Transportation",
-        src: "/Transportation.svg"
+        src: "/transportation.svg"
 
     },
     {
         title: "Food",
-        src: "/Food.svg"
+        src: "/food.svg"
     },
 
     {
         title: "Water",
-        src: "/Water.svg"
+        src: "/water.svg"
     },
     {
         title: "Electricity",
-        src: "/Electricity.svg"
+        src: "/electricity.svg"
     },
     {
         title: "Waste",
-        src: "/Waste.svg"
+        src: "/waste.svg"
     },
     {
         title: "Shopping",
-        src: "/Shopping.svg"
+        src: "/shopping.svg"
     }
 ]

@@ -4,30 +4,30 @@ export const BtnText = ["Next", "Start Quiz"]
 
 export const cat1 = {
     title: "Transportation",
-    img: "/Transportation.svg"
+    img: "/transportation.svg"
 }
 
 export const cat2 = {
     title: "Food",
-    img: "/Food.svg"
+    img: "/food.svg"
 }
 
 export const cat3 = {
     title: "Water",
-    img: "/Water.svg"
+    img: "/water.svg"
 }
 
 export const cat4 = {
     title: "Electricity",
-    img: "/Electricity.svg"
+    img: "/electricity.svg"
 }
 
 export const cat5 = {
     title: "Waste",
-    img: "/Waste.svg"
+    img: "/waste.svg"
 }
 
 export const cat6 = {
     title: "Shopping",
-    img: "/Shopping.svg"
+    img: "/shopping.svg"
 }
