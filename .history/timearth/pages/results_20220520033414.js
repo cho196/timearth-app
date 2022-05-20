@@ -96,6 +96,7 @@ export default function Result() {
 
     return (
         <LayoutComp>
+            <NavBar />
             <div className="menu" ref={node}>
                 <Hamburger open={open} setOpen={setOpen} />
                 <Menu open={open} setOpen={setOpen} />
