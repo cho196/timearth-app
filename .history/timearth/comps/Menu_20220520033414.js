@@ -76,9 +76,9 @@ const HamburgerComp = styled.div`
       transform: ${({ open }) => open ? 'rotate(-45deg)' : 'rotate(0)'};
     }
 
-    // @media only screen and (min-width: 700px) {
-    //     display: none;
-    // }
+    @media only screen and (min-width: 700px) {
+        display: none;
+    }
 `
 
 export const Menu = ({ open }) => {
